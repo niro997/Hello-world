@@ -9,4 +9,8 @@ Tengo una especialidad en
 En
 *La Universidad Del Rosario*
 ![Rosario](logo_vertical_ur_rojo.png)
-
+Me gusta el Futbol⚽ y soy Fanatico de: :heart_eyes:
+| País | Ciudad / Equipo |
+| :--- | :--- |
+| Colombia | Bogota / Ind Santa Fe |
+| España | Barcelona / Fc Barcelona |
