@@ -4,4 +4,8 @@ Hola soy **Nicolas Rodriguez Lopez**
 Estudie medicina en la Fundacion universitaria ciencias de la salud 
 ## (FUCS) 
 ![FUCS](Fucs.jpg)
-Tengo una especialidad en epidemiologia en la universidad del rosario
+Tengo una especialidad en 
+**Epidemiologia**
+En
+*La Universidad Del Rosario*
+![Rosario](logo_vertical_ur_rojo.png)
