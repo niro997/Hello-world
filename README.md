@@ -3,4 +3,5 @@ Hola soy **Nicolas Rodriguez Lopez**
 *Tengo 28 años*
 Estudie medicina en la Fundacion universitaria ciencias de la salud 
 ## (FUCS) 
-![FUCS]()
+![FUCS](Fucs.jpg)
+Tengo una especialidad en epidemiologia en la universidad del rosario
